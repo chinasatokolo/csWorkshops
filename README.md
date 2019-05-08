@@ -1,5 +1,8 @@
 # Computer Science Workshops
-Workshops for women and underrepresented minorities (URMs) in Computer Science and related fields.
+Workshops for graduate (Master's and PhD) students in computer science and related fields.
+
+
+## Workshops for women and underrepresented minorities (URMs)
 
 • CRA-W Grad Cohort for Women 
 https://cra.org/cra-w/grad-cohort-workshop/
