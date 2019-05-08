@@ -1,10 +1,12 @@
 # Computer Science Workshops
 Workshops for women and underrepresented minorities (URMs) in Computer Science and related fields.
 
-	• CRA-W Grad Cohort for Women 
-	https://cra.org/cra-w/grad-cohort-workshop/
-	• CRA URMD Graduate Cohort Workshop
-	https://cra.org/crn/2018/10/applications-open-for-2019-graduate-cohort-workshops/
+• CRA-W Grad Cohort for Women 
+https://cra.org/cra-w/grad-cohort-workshop/
+
+• CRA URMD Graduate Cohort Workshop
+https://cra.org/crn/2018/10/applications-open-for-2019-graduate-cohort-workshops/
+
 
 ## Early/mid-stage
 
@@ -25,6 +27,7 @@ https://nextprofpathfinder.engin.umich.edu/
 
 • Dissertation Institute
 https://www.dissertationinstitute.com/
+
 
 ## Future Faculty Workshops
 
