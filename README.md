@@ -16,7 +16,7 @@ https://cra.org/crn/2018/10/applications-open-for-2019-graduate-cohort-workshops
 • Heidelberg Laureate Forum 
 https://www.heidelberg-laureate-forum.org/event_2018/
 
-• IDC Doctoral Consortium 
+* IDC Doctoral Consortium 
 http://idc.acm.org/2019/doctoral-consortium/
 
 • Institute on Teaching and Mentoring 
