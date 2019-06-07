@@ -64,3 +64,6 @@ https://risingstars18-eecs.mit.edu/
 
 * CRA Career Mentoring Workshop
 https://cra.org/career-mentoring-workshop/
+
+* NSF Minority Faculty Development Workshop
+https://serc.carleton.edu/facultyequity/workshop/2018/2018_mfdw_application.html
