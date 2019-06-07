@@ -26,6 +26,12 @@ https://instituteonteachingandmentoring.org/
 https://nextprofpathfinder.engin.umich.edu/
 
 
+## Senior
+
+* NextProf Nexus
+http://nextprofnexus.engin.umich.edu/
+
+
 ## Dissertation
 
 * Dissertation Institute
