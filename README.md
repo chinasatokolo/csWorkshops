@@ -25,6 +25,9 @@ https://instituteonteachingandmentoring.org/
 * NextProf Pathfinder Workshop
 https://nextprofpathfinder.engin.umich.edu/
 
+* SPLASH 2019 PL & SE Mentoring Workshop
+https://2019.splashcon.org/track/splash-2019-PLMW
+
 
 ## Senior
 
