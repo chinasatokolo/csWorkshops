@@ -68,6 +68,8 @@ https://files.constantcontact.com/95a45462201/e9b18938-3d9c-4fc7-a34d-8f9360c661
 * Rising Stars Academic Career Workshop
 https://risingstars18-eecs.mit.edu/
 
+* PITT Future Faculty Discovery Development Program (PITT-FFDDP)
+https://www.engineering.pitt.edu/FFDP/?utm_source=Announcements+-+July+1%2C+2019&utm_campaign=Announcements-7%2F17%2F17&utm_medium=email
 
 ## Junior Professors
 
