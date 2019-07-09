@@ -4,8 +4,7 @@ Workshops for graduate (Master's and PhD) students in computer science and relat
 
 ## Workshops for women and underrepresented minorities (URMs)
 
-* CRA-W Grad Cohort for Women 
-https://cra.org/cra-w/grad-cohort-workshop/
+* [CRA-W Grad Cohort for Women]: https://cra.org/cra-w/grad-cohort-workshop/
 
 * CRA URMD Graduate Cohort Workshop
 https://cra.org/crn/2018/10/applications-open-for-2019-graduate-cohort-workshops/
