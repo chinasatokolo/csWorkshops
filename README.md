@@ -44,7 +44,7 @@ Workshops for graduate (Master's and PhD) students in computer science and relat
 
 ## Future Faculty Workshops
 
-A lot of schools have their own summer/winter future faculty programs tailored for their own students. For example, Cornell has their Future Professos Institute (http://blogs.cornell.edu/futureprofs/) but registration for non-Cornell students is $45. Be sure to check if your institution has a similar program, I know there are others at Berkeley, Stanford, etc.  
+A lot of schools have their own summer/winter future faculty programs tailored for their own students. For example, Cornell has their [Future Professors Institute](http://blogs.cornell.edu/futureprofs/) but registration for non-Cornell students is $45. Be sure to check if your institution has a similar program, I know there are others at Berkeley, Stanford, etc.  
 
 * [ACTIVE: Faculty Development and Leadership Intensive](https://www.colorado.edu/engineering/active?utm_source=Announcements+-+May+20%2C+2019&utm_campaign=Announcements-7%2F17%2F17&utm_medium=email)
 
