@@ -11,10 +11,13 @@ https://cra.org/cra-w/grad-cohort-workshop/
 https://cra.org/crn/2018/10/applications-open-for-2019-graduate-cohort-workshops/
 
 
-## Early/mid-stage
+## Pre-doctoral
 
 * Graduate School 101
 https://theihs.org/undergraduates/graduate-school-101/?utm_source=profellow&utm_medium=display&utm_campaign=graduate-school-101&utm_term=newsletter-ad&utm_content=grad-school-101-info&mc_cid=cab89c6815&mc_eid=a404ee11ad
+
+
+## Early/mid-stage
 
 * Heidelberg Laureate Forum 
 https://www.heidelberg-laureate-forum.org/event_2018/
