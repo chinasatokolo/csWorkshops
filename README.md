@@ -9,9 +9,12 @@ Workshops for graduate (Master's and PhD) students in computer science and relat
 * [CRA URMD Graduate Cohort Workshop](https://cra.org/crn/2018/10/applications-open-for-2019-graduate-cohort-workshops/)
 
 
+
 ## Pre-doctoral
 
 * [Graduate School 101](https://theihs.org/undergraduates/graduate-school-101/?utm_source=profellow&utm_medium=display&utm_campaign=graduate-school-101&utm_term=newsletter-ad&utm_content=grad-school-101-info&mc_cid=cab89c6815&mc_eid=a404ee11ad)
+
+* [Pathways to Graduate School for Rising College Seniors](https://engineering.princeton.edu/academic-pathways/prospective-graduate-students)
 
 
 ## Early/mid-stage
@@ -59,6 +62,10 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 * [Rising Stars Academic Career Workshop](https://risingstars18-eecs.mit.edu/)
 
 * [PITT Future Faculty Discovery Development Program (PITT-FFDDP)](https://www.engineering.pitt.edu/FFDP/?utm_source=Announcements+-+July+1%2C+2019&utm_campaign=Announcements-7%2F17%2F17&utm_medium=email)
+
+* [Princeton University Pathways to Faculty Jobs](https://engineering.princeton.edu/academic-pathways/prospective-faculty)
+
+* [Worcester Polytechnic Institute STEM Faculty Launch Workshop](https://www.wpi.edu/news/calendar/events/stem-faculty-launch-workshop?utm_source=redirector&utm_medium=facultylaunch&utm_campaign=short_url)
 
 ## Junior Professors
 
