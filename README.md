@@ -1,5 +1,5 @@
 # Computer Science Workshops
-Workshops for graduate (Master's and PhD) students in computer science and related fields.
+Workshops for prospective and current graduate (Master's and PhD) students in computer science and related fields.
 
 
 ## Workshops for women and underrepresented minorities (URMs)
