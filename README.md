@@ -13,7 +13,9 @@ Workshops for graduate (Master's and PhD) students in computer science and relat
 
 ## Pre-doctoral
 
-Many top universities have visit days geared towards students interested in pursuing a PhD in engineering or applied science disciplines. These usually take place over a weekend and are almost always all-expenses paid! This is a great way to visit schools that are on your application list without having to bear much of the cost. I encourage every student to take advantage of these opportunities. I did this during my senior year of college which resulted in my strong applications and admissions to some of the top computer science programs in the world! The McNair Scholars Program maintains an extensive list [here](https://mcnairscholars.com/campus-visitations/).
+Many top universities have visit days geared towards students interested in pursuing a PhD in engineering or applied science disciplines. These usually take place over a weekend and are almost always all-expenses paid! This is a great way to visit schools that are on your application list without having to bear much of the cost. I encourage every student to take advantage of these opportunities. I did this during my senior year of college which resulted in my strong applications and admissions to some of the top computer science programs in the world! 
+
+The McNair Scholars Program maintains an extensive list [here](https://mcnairscholars.com/campus-visitations/).
 
 * [Graduate School 101](https://theihs.org/undergraduates/graduate-school-101/?utm_source=profellow&utm_medium=display&utm_campaign=graduate-school-101&utm_term=newsletter-ad&utm_content=grad-school-101-info&mc_cid=cab89c6815&mc_eid=a404ee11ad)
 
