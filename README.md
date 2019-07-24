@@ -44,6 +44,8 @@ The McNair Scholars Program maintains an extensive list [here](https://mcnairsch
 
 ## Dissertation
 
+There are not many general workshops that focus on dissertation writing. Instead, many universities offer their own events where students can attend on-campus workshops or seminars on this topic. Most schools will have writing centers or graduate writing courses that students can enroll in.
+
 * [Dissertation Institute](https://www.dissertationinstitute.com/)
 
 
