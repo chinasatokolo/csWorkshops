@@ -8,6 +8,7 @@ Workshops for graduate (Master's and PhD) students in computer science and relat
 
 * [CRA URMD Graduate Cohort Workshop](https://cra.org/crn/2018/10/applications-open-for-2019-graduate-cohort-workshops/)
 
+* [Cornell SoNIC Workshop](https://www.cs.cornell.edu/content/workshop/sonic)
 
 
 ## Pre-doctoral
