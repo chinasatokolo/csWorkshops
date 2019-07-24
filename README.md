@@ -17,6 +17,8 @@ Workshops for graduate (Master's and PhD) students in computer science and relat
 
 * [Pathways to Graduate School for Rising College Seniors](https://engineering.princeton.edu/academic-pathways/prospective-graduate-students)
 
+* [Explore Graduate Studies in Computer Science & Engineering](https://www.eecs.umich.edu/cse/egs/)
+
 
 ## Early/mid-stage
 
