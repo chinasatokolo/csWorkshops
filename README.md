@@ -21,7 +21,9 @@ The McNair Scholars Program maintains an extensive list [here](https://mcnairsch
 
 * [Pathways to Graduate School for Rising College Seniors](https://engineering.princeton.edu/academic-pathways/prospective-graduate-students)
 
-* [Explore Graduate Studies in Computer Science & Engineering](https://www.eecs.umich.edu/cse/egs/)
+* [University of Michigan - Explore Graduate Studies in Computer Science & Engineering](https://www.eecs.umich.edu/cse/egs/)
+
+* [UIUC - Multi-Cultural Engineering Recruitment for Graduate Education](https://my.engr.illinois.edu/submit/)
 
 
 ## Early/mid-stage
