@@ -1,5 +1,5 @@
 # Computer Science Workshops
-Workshops for prospective and current graduate (Master's and PhD) students in computer science and related fields.
+Workshops and programs for prospective and current graduate (Master's and PhD) students in computer science and related fields.
 
 
 ## Workshops for women and underrepresented minorities (URMs)
@@ -77,6 +77,9 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 * [Princeton University Pathways to Faculty Jobs](https://engineering.princeton.edu/academic-pathways/prospective-faculty)
 
 * [Worcester Polytechnic Institute STEM Faculty Launch Workshop](https://www.wpi.edu/news/calendar/events/stem-faculty-launch-workshop?utm_source=redirector&utm_medium=facultylaunch&utm_campaign=short_url)
+
+* [Professoriate Bound](https://blackengineeringphd.org/)
+
 
 ## Junior Professors
 
