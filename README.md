@@ -88,3 +88,5 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 * [Academic Career Workshop for Underrepresented Junior Faculty and Senior Graduate Students](http://www.cmd-it.org/programs/current/acw/?fbclid=IwAR1MttEpW-iG98oacrVvTMS3UfpJ7IGwtiiLf1ZQSrcQ8qwpSh8CImBZJl0)
 
 * [NSF Minority Faculty Development Workshop](https://serc.carleton.edu/facultyequity/workshop/2018/2018_mfdw_application.html)
+
+* [Virgina Tech Future Faculty Development Program](https://www.inclusive.vt.edu/Programs/future_faculty.html)
