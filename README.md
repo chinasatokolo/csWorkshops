@@ -82,6 +82,8 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [Virgina Tech Future Faculty Development Program](https://www.inclusive.vt.edu/Programs/future_faculty.html)
 
+* Georgia Tech FOCUS Fellows Program
+
 
 ## Junior Professors
 
