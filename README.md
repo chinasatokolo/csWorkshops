@@ -84,6 +84,8 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * Georgia Tech FOCUS Fellows Program
 
+*[Clemson Doctoral Pathfinder Program](https://www.clemson.edu/inclusion/pathfinder/)
+
 
 ## Junior Professors
 
