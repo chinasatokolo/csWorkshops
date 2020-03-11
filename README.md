@@ -101,6 +101,7 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 
 ## Non-Academic Workshops
+As academic jobs become increasingly hard to obtain, especially for those outside of engineering, many graduate schools are providing professional development targeted towards industry positions. Cornell has a program called [Careers Beyond Academia](https://gradcareers.cornell.edu/) that I've been fortunate to participate in since my first year. I've attended numerous workshops, symposiums, and even gone on a career trek to Silicon Valley! While I'm interested in working equally in academia and industry, I believe that expanding my options has allowed me to learn about both fields and will help immensely in my future career choices. Definitely check if your school or program has an office dedicated to helping students prepare for careers beyond academia!
 
 ### Consulting
 
