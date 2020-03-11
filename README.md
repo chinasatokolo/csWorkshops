@@ -2,7 +2,7 @@
 Workshops and programs for prospective and current graduate (Master's and PhD) students in computer science and related fields.
 
 
-## Workshops for women and underrepresented minorities (URMs)
+### Workshops for women and underrepresented minorities (URMs)
 
 * [CRA-W Grad Cohort for Women](https://cra.org/cra-w/grad-cohort-workshop/)
 
@@ -27,7 +27,7 @@ The McNair Scholars Program maintains an extensive list [here](https://mcnairsch
 * [UIUC - Multi-Cultural Engineering Recruitment for Graduate Education](https://my.engr.illinois.edu/submit/)
 
 
-## Early/mid-stage
+### Early/mid-stage
 
 * [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/event_2018/)
 
@@ -40,24 +40,24 @@ The McNair Scholars Program maintains an extensive list [here](https://mcnairsch
 * [SPLASH 2019 PL & SE Mentoring Workshop](https://2019.splashcon.org/track/splash-2019-PLMW)
 
 
-## Senior
+### Senior
 
 * [NextProf Nexus](http://nextprofnexus.engin.umich.edu/)
 
 
-## Dissertation
+### Dissertation
 
 There are not many general workshops that focus on dissertation writing. Instead, many universities offer their own events where students can attend on-campus workshops or seminars on this topic. Most schools will have writing centers or graduate writing courses that students can enroll in.
 
 * [Dissertation Institute](https://www.dissertationinstitute.com/)
 
 
-## Postdoctoral
+### Postdoctoral
 
 * [Stanford Postdoctoral Recruitment Initiative in Sciences and Medicine (PRISM)](https://postdocs.stanford.edu/PRISM?utm_source=Announcements+-+May+20%2C+2019&utm_campaign=Announcements-7%2F17%2F17&utm_medium=email)
 
 
-## Future Faculty Workshops
+### Future Faculty Workshops
 
 A lot of schools have their own summer/winter future faculty programs tailored for their own students. For example, Cornell has their [Future Professors Institute](http://blogs.cornell.edu/futureprofs/) but registration for non-Cornell students is $45. Be sure to check if your institution has a similar program, I know there are others at Berkeley, Stanford, etc.  
 
@@ -90,7 +90,7 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 * [Boston University ECE Future Faculty Symposium](http://www.bu.edu/eng/departments/ece/events/ece-emerging-scholars-symposium/)
 
 
-## Junior Professors
+### Junior Professors
 
 * [CRA Career Mentoring Workshop](https://cra.org/career-mentoring-workshop/)
 
