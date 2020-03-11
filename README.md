@@ -100,11 +100,14 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 
 
-## Non-academic Workshops
+## Non-Academic Workshops
 
 ### Consulting
 
 * [McKinsey Diversity Connect](https://www.mckinsey.com/careers/diversity-connect)
 
 * [McKinsey Insight](https://www.mckinsey.com/careers/students/insight/overview)
+
+* [McKinsey Global Connect](https://www.mckinsey.com/careers/global-connect/overview)
+
 
