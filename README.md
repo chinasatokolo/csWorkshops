@@ -86,6 +86,8 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [Clemson Doctoral Pathfinder Program](https://www.clemson.edu/inclusion/pathfinder/)
 
+* [Boston University ECE Future Faculty Symposium](http://www.bu.edu/eng/departments/ece/events/ece-emerging-scholars-symposium/)
+
 
 ## Junior Professors
 
