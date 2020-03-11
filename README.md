@@ -10,8 +10,9 @@ Workshops and programs for prospective and current graduate (Master's and PhD) s
 
 * [Cornell SoNIC Workshop](https://www.cs.cornell.edu/content/workshop/sonic)
 
+## Academic
 
-## Pre-doctoral
+### Pre-doctoral
 
 Many top universities have visit days geared towards students interested in pursuing a PhD in engineering or applied science disciplines. These usually take place over a weekend and are almost always all-expenses paid! This is a great way to visit schools that are on your application list without having to bear much of the cost. I encourage every student to take advantage of these opportunities. I did this during my senior year of college which resulted in my strong applications and admissions to some of the top computer science programs in the world! 
 
@@ -96,3 +97,14 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 * [Academic Career Workshop for Underrepresented Junior Faculty and Senior Graduate Students](http://www.cmd-it.org/programs/current/acw/?fbclid=IwAR1MttEpW-iG98oacrVvTMS3UfpJ7IGwtiiLf1ZQSrcQ8qwpSh8CImBZJl0)
 
 * [NSF Minority Faculty Development Workshop](https://serc.carleton.edu/facultyequity/workshop/2018/2018_mfdw_application.html)
+
+
+
+## Non-academic Workshops
+
+### Consulting
+
+* [McKinsey Diversity Connect](https://www.mckinsey.com/careers/diversity-connect)
+
+* [McKinsey Insight](https://www.mckinsey.com/careers/students/insight/overview)
+
