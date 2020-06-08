@@ -18,13 +18,15 @@ Many top universities have visit days geared towards students interested in purs
 
 The McNair Scholars Program maintains an extensive list [here](https://mcnairscholars.com/campus-visitations/).
 
-* [Graduate School 101](https://theihs.org/undergraduates/graduate-school-101/?utm_source=profellow&utm_medium=display&utm_campaign=graduate-school-101&utm_term=newsletter-ad&utm_content=grad-school-101-info&mc_cid=cab89c6815&mc_eid=a404ee11ad)
+* [Graduate School 101](https://theihs.org/undergraduates/graduate-school-101)
 
 * [Pathways to Graduate School for Rising College Seniors](https://engineering.princeton.edu/academic-pathways/prospective-graduate-students)
 
 * [University of Michigan - Explore Graduate Studies in Computer Science & Engineering](https://www.eecs.umich.edu/cse/egs/)
 
 * [UIUC - Multi-Cultural Engineering Recruitment for Graduate Education](https://my.engr.illinois.edu/submit/)
+
+* [Princeton’s Pathways to Graduate School (PGS) Program](https://engineering.princeton.edu/graduate-studies/academic-pathways/prospective-graduate-students)
 
 
 ### Early/mid-stage
