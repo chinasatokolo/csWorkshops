@@ -1,5 +1,5 @@
 # Computer Science Workshops
-Workshops and programs for prospective and current graduate (Master's and PhD) students in computer science and related fields.
+Workshops and programs for prospective and current graduate (Master's and PhD) students in computer science and related fields. With current restrictions set by the COVID-19 pandemic, the format of many of these workshops have probably changed significantly. Updates coming soon! 
 
 
 ### Workshops for women and underrepresented minorities (URMs)
