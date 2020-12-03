@@ -69,6 +69,8 @@ A lot of schools have their own summer/winter future faculty programs tailored f
  
 * [National Science Foundation Academe Workshop](https://files.constantcontact.com/95a45462201/e9b18938-3d9c-4fc7-a34d-8f9360c6610b.pdf)
 
+* [Tandon Faculty First Look Fellowship](https://engineering.nyu.edu/about/diversity-inclusion/faculty-first-look)
+
 * [Rochester Institute of Technology’s Future Faculty Career Exploration Program (FFCEP)](https://www.rit.edu/academicaffairs/facultyrecruitment/future-faculty-programs/future-faculty-career-exploration-program)
 
 * [Rising Stars Academic Career Workshop](https://risingstars18-eecs.mit.edu/)
