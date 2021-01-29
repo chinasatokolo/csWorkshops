@@ -45,6 +45,7 @@ The McNair Scholars Program maintains an extensive list [here](https://mcnairsch
 * [NextProf Nexus](http://nextprofnexus.engin.umich.edu/)
 
 
+
 ### Dissertation
 
 There are not many general workshops that focus on dissertation writing. Instead, many universities offer their own events where students can attend on-campus workshops or seminars on this topic. Most schools will have writing centers or graduate writing courses that students can enroll in.
@@ -90,6 +91,8 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 * [Clemson Doctoral Pathfinder Program](https://www.clemson.edu/inclusion/pathfinder/)
 
 * [Boston University ECE Future Faculty Symposium](http://www.bu.edu/eng/departments/ece/events/ece-emerging-scholars-symposium/)
+
+* [Purdue BTE: Black Trailblazers in Engineering](https://engineering.purdue.edu/Engr/AboutUs/News/Events/BTE)
 
 
 ### Junior Professors
