@@ -84,7 +84,7 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [Professoriate Bound](https://blackengineeringphd.org/)
 
-* [Virgina Tech Future Faculty Development Program](https://www.inclusive.vt.edu/Programs/future_faculty.html)
+* [Virgina Tech Future Faculty Diversity Program](https://www.inclusive.vt.edu/Programs/FFDP.html))
 
 * Georgia Tech FOCUS Fellows Program
 
