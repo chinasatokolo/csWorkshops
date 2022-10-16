@@ -90,7 +90,7 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [Tandon Faculty First Look Fellowship](https://engineering.nyu.edu/about/diversity-inclusion/faculty-first-look)
 
-* [Virgina Tech Future Faculty Diversity Program](https://www.inclusive.vt.edu/Programs/FFDP.html))
+* [Virgina Tech Future Faculty Diversity Program](https://www.inclusive.vt.edu/Programs/FFDP.html)
 
 * [WiscProf: Future Faculty in Engineering Workshop](https://wiscprof.engr.wisc.edu/)
 
