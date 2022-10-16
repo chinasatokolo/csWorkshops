@@ -37,7 +37,7 @@ The McNair Scholars Program maintains an extensive list [here](https://mcnairsch
 
 * [NextProf Pathfinder Workshop](https://nextprofpathfinder.engin.umich.edu/)
 
-* [SPLASH 2019 PL & SE Mentoring Workshop](https://2019.splashcon.org/track/splash-2019-PLMW)
+* [SPLASH PL & SE Mentoring Workshop](https://2019.splashcon.org/track/splash-2019-PLMW)
 
 
 ### Senior
@@ -62,37 +62,39 @@ There are not many general workshops that focus on dissertation writing. Instead
 
 A lot of schools have their own summer/winter future faculty programs tailored for their own students. For example, Cornell has their [Future Professors Institute](http://blogs.cornell.edu/futureprofs/) but registration for non-Cornell students is $45. Be sure to check if your institution has a similar program, I know there are others at Berkeley, Stanford, etc.  
 
-* [ACTIVE: Faculty Development and Leadership Intensive](https://www.colorado.edu/engineering/active?utm_source=Announcements+-+May+20%2C+2019&utm_campaign=Announcements-7%2F17%2F17&utm_medium=email)
+* [ACTIVE: Faculty Development and Leadership Intensive](https://www.colorado.edu/engineering/active)
+
+* [Boston University ECE Future Faculty Symposium](http://www.bu.edu/eng/departments/ece/events/ece-emerging-scholars-symposium/)
 
 * [Building Future Faculty Program ](https://mathalliance.org/building-future-faculty-program-now-accepting-applications-for-2019/)
+
+* [Clemson Doctoral Pathfinder Program](https://www.clemson.edu/inclusion/pathfinder/)
+
+* Georgia Tech FOCUS Fellows Program
 
 * [LATTICE: Launching Academics on the Tenure Track: an Intentional Community in Engineering]( https://advance.washington.edu/lattice)
  
 * [National Science Foundation Academe Workshop](https://files.constantcontact.com/95a45462201/e9b18938-3d9c-4fc7-a34d-8f9360c6610b.pdf)
 
-* [Tandon Faculty First Look Fellowship](https://engineering.nyu.edu/about/diversity-inclusion/faculty-first-look)
+* [PITT Future Faculty Discovery Development Program (PITT-FFDDP)](https://www.engineering.pitt.edu/FFDP/)
+
+* [Princeton University Pathways to Faculty Jobs](https://engineering.princeton.edu/academic-pathways/prospective-faculty)
+
+* [Professoriate Bound](https://blackengineeringphd.org/)
+
+* [Purdue BTE: Black Trailblazers in Engineering](https://engineering.purdue.edu/Engr/AboutUs/News/Events/BTE)
 
 * [Rochester Institute of Technology’s Future Faculty Career Exploration Program (FFCEP)](https://www.rit.edu/academicaffairs/facultyrecruitment/future-faculty-programs/future-faculty-career-exploration-program)
 
 * [Rising Stars Academic Career Workshop](https://risingstars18-eecs.mit.edu/)
 
-* [PITT Future Faculty Discovery Development Program (PITT-FFDDP)](https://www.engineering.pitt.edu/FFDP/?utm_source=Announcements+-+July+1%2C+2019&utm_campaign=Announcements-7%2F17%2F17&utm_medium=email)
-
-* [Princeton University Pathways to Faculty Jobs](https://engineering.princeton.edu/academic-pathways/prospective-faculty)
-
-* [Worcester Polytechnic Institute STEM Faculty Launch Workshop](https://www.wpi.edu/news/calendar/events/stem-faculty-launch-workshop?utm_source=redirector&utm_medium=facultylaunch&utm_campaign=short_url)
-
-* [Professoriate Bound](https://blackengineeringphd.org/)
+* [Tandon Faculty First Look Fellowship](https://engineering.nyu.edu/about/diversity-inclusion/faculty-first-look)
 
 * [Virgina Tech Future Faculty Diversity Program](https://www.inclusive.vt.edu/Programs/FFDP.html))
 
-* Georgia Tech FOCUS Fellows Program
+* [WiscProf: Future Faculty in Engineering Workshop](https://wiscprof.engr.wisc.edu/)
 
-* [Clemson Doctoral Pathfinder Program](https://www.clemson.edu/inclusion/pathfinder/)
-
-* [Boston University ECE Future Faculty Symposium](http://www.bu.edu/eng/departments/ece/events/ece-emerging-scholars-symposium/)
-
-* [Purdue BTE: Black Trailblazers in Engineering](https://engineering.purdue.edu/Engr/AboutUs/News/Events/BTE)
+* [Worcester Polytechnic Institute STEM Faculty Launch Workshop](https://www.wpi.edu/news/calendar/events/stem-faculty-launch-workshop)
 
 
 ### Junior Professors
