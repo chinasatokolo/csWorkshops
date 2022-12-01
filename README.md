@@ -1,5 +1,5 @@
 # Computer Science Workshops
-Workshops and programs for prospective and current graduate (Master's and PhD) students in computer science and related fields. With current restrictions set by the COVID-19 pandemic, the format of many of these workshops have probably changed significantly. Updates coming soon! 
+Workshops and programs for prospective and current graduate (Master's and PhD) students in computer science and related engineering fields. With current restrictions set by the COVID-19 pandemic, the format of many of these workshops have probably changed significantly. Updates coming soon! 
 
 
 ### Workshops for women and underrepresented minorities (URMs)
@@ -64,9 +64,13 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [ACTIVE: Faculty Development and Leadership Intensive](https://www.colorado.edu/engineering/active)
 
+* [American Institute of Chemical Engineers Future Faculty Mentoring Program](https://www.aiche.org/community/sites/divisions-forums/education-division/future-faculty-programs)
+
 * [Boston University ECE Future Faculty Symposium](http://www.bu.edu/eng/departments/ece/events/ece-emerging-scholars-symposium/)
 
 * [Clemson Doctoral Pathfinder Program](https://www.clemson.edu/inclusion/pathfinder/)
+
+* [Delaware FFW Diverse Leaders for the Future Workshop](https://sites.udel.edu/future-faculty-workshop/)
 
 * [EECS Rising Stars Academic Career Workshop](https://www.eecs.mit.edu/community-equity/rising-stars-in-eecs/)
 
