@@ -66,8 +66,6 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [Boston University ECE Future Faculty Symposium](http://www.bu.edu/eng/departments/ece/events/ece-emerging-scholars-symposium/)
 
-* [Building Future Faculty Program ](https://mathalliance.org/building-future-faculty-program-now-accepting-applications-for-2019/)
-
 * [Clemson Doctoral Pathfinder Program](https://www.clemson.edu/inclusion/pathfinder/)
 
 * Georgia Tech FOCUS Fellows Program
@@ -75,6 +73,8 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 * [LATTICE: Launching Academics on the Tenure Track: an Intentional Community in Engineering]( https://advance.washington.edu/lattice)
  
 * [National Science Foundation Academe Workshop](https://files.constantcontact.com/95a45462201/e9b18938-3d9c-4fc7-a34d-8f9360c6610b.pdf)
+
+* [NC State Building Future Faculty (BFF) Program](https://diversity.ncsu.edu/building-future-faculty-program/)
 
 * [PITT Future Faculty Discovery Development Program (PITT-FFDDP)](https://www.engineering.pitt.edu/FFDP/)
 
@@ -90,7 +90,7 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [Tandon Faculty First Look Fellowship](https://engineering.nyu.edu/about/diversity-inclusion/faculty-first-look)
 
-* [Virgina Tech Future Faculty Diversity Program](https://www.inclusive.vt.edu/Programs/FFDP.html)
+* [Virgina Tech Future Faculty Diversity Program](https://www.inclusive.vt.edu/Programs/FDP.html)
 
 * [WiscProf: Future Faculty in Engineering Workshop](https://wiscprof.engr.wisc.edu/)
 
