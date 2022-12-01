@@ -68,11 +68,15 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [Clemson Doctoral Pathfinder Program](https://www.clemson.edu/inclusion/pathfinder/)
 
+* [EECS Rising Stars Academic Career Workshop](https://www.eecs.mit.edu/community-equity/rising-stars-in-eecs/)
+
 * Georgia Tech FOCUS Fellows Program
 
 * [LATTICE: Launching Academics on the Tenure Track: an Intentional Community in Engineering]( https://advance.washington.edu/lattice)
  
 * [National Science Foundation Academe Workshop](https://files.constantcontact.com/95a45462201/e9b18938-3d9c-4fc7-a34d-8f9360c6610b.pdf)
+
+* [New England Future Faculty Workshop](https://faculty.northeastern.edu/advance/faculty-recruitment/future-faculty-workshop/)
 
 * [NC State Building Future Faculty (BFF) Program](https://diversity.ncsu.edu/building-future-faculty-program/)
 
@@ -85,8 +89,6 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 * [Purdue BTE: Black Trailblazers in Engineering](https://engineering.purdue.edu/Engr/AboutUs/News/Events/BTE)
 
 * [Rochester Institute of Technology’s Future Faculty Career Exploration Program (FFCEP)](https://www.rit.edu/academicaffairs/facultyrecruitment/future-faculty-programs/future-faculty-career-exploration-program)
-
-* [EECS Rising Stars Academic Career Workshop](https://www.eecs.mit.edu/community-equity/rising-stars-in-eecs/)
 
 * [Tandon Faculty First Look Fellowship](https://engineering.nyu.edu/about/diversity-inclusion/faculty-first-look)
 
