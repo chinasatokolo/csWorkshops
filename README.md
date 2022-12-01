@@ -74,7 +74,7 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [EECS Rising Stars Academic Career Workshop](https://www.eecs.mit.edu/community-equity/rising-stars-in-eecs/)
 
-* Georgia Tech FOCUS Fellows Program
+* [Georgia Tech FOCUS Fellows Program](https://www.gtri.gatech.edu/georgia-tech-gtri-focus-fellows-program)
 
 * [LATTICE: Launching Academics on the Tenure Track: an Intentional Community in Engineering]( https://advance.washington.edu/lattice)
  
