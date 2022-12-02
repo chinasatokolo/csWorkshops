@@ -64,6 +64,10 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [ACTIVE: Faculty Development and Leadership Intensive](https://www.colorado.edu/engineering/active)
 
+* [Adelante Hispanic Serving Institutions (HSI) Future Faculty Bootcamp](https://graduatedivision.ucmerced.edu/adelante)
+
+* [AISES Engineering Faculty Career Workshop](https://forms.aises.org/form/aises-engineering-faculty-career)
+
 * [American Institute of Chemical Engineers Future Faculty Mentoring Program](https://www.aiche.org/community/sites/divisions-forums/education-division/future-faculty-programs)
 
 * [Boston University ECE Future Faculty Symposium](http://www.bu.edu/eng/departments/ece/events/ece-emerging-scholars-symposium/)
@@ -74,9 +78,13 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [EECS Rising Stars Academic Career Workshop](https://www.eecs.mit.edu/community-equity/rising-stars-in-eecs/)
 
+* [Future Faculty Identification Program (FFIP](https://aspire2.utdallas.edu/about-us/future-faculty-identification-program-ffip/)
+* 
 * [Georgia Tech FOCUS Fellows Program](https://www.gtri.gatech.edu/georgia-tech-gtri-focus-fellows-program)
 
 * [LATTICE: Launching Academics on the Tenure Track: an Intentional Community in Engineering]( https://advance.washington.edu/lattice)
+
+* [MIT Path of Professorship](https://oge.mit.edu/student-support-development/career-planning/path-of-professorship/)
  
 * [National Science Foundation Academe Workshop](https://files.constantcontact.com/95a45462201/e9b18938-3d9c-4fc7-a34d-8f9360c6610b.pdf)
 
@@ -93,6 +101,8 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 * [Purdue BTE: Black Trailblazers in Engineering](https://engineering.purdue.edu/Engr/AboutUs/News/Events/BTE)
 
 * [Rochester Institute of Technology’s Future Faculty Career Exploration Program (FFCEP)](https://www.rit.edu/academicaffairs/facultyrecruitment/future-faculty-programs/future-faculty-career-exploration-program)
+
+* [SEC Emerging Scholars Program](https://www.thesecu.com/news/sec-provosts-establish-emerging-scholars-program-for-future-faculty/)
 
 * [Tandon Faculty First Look Fellowship](https://engineering.nyu.edu/about/diversity-inclusion/faculty-first-look)
 
