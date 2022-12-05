@@ -82,6 +82,8 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [Georgia Tech FOCUS Fellows Program](https://www.gtri.gatech.edu/georgia-tech-gtri-focus-fellows-program)
 
+* [Institute for Future PUI Faculty](https://sites.lafayette.edu/puiinstitute/)
+
 * [LATTICE: Launching Academics on the Tenure Track: an Intentional Community in Engineering]( https://advance.washington.edu/lattice)
 
 * [MIT Path of Professorship](https://oge.mit.edu/student-support-development/career-planning/path-of-professorship/)
