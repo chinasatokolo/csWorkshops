@@ -66,6 +66,9 @@ There are not many general workshops that focus on dissertation writing. Instead
 * [Johns Hopkins Rising Stars in Engineering in Health Workshop](https://www.bme.jhu.edu/news-events/events/rising-stars-in-engineering-in-health-workshop/)
 * [UMaryland Rising Stars in Machine Learning](https://ml.umd.edu/rising-stars)
 * [Rising Stars in Cyber-Physical Systems](https://risingstars.linklab.virginia.edu/2022/apply/)
+* [IEEE Rising Stars](https://ieee-risingstars.org/2023/)
+* [IEEE Rising Stars](https://ieee-risingstars.org/2023/)
+* [IEEE Solid-State Circuits Society Rising Stars Workshop](https://sscs.ieee.org/women-in-circuits/rising-stars-2020-workshop)
 
 
 ### Future Faculty Workshops
