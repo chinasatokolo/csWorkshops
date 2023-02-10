@@ -45,7 +45,6 @@ The McNair Scholars Program maintains an extensive list [here](https://mcnairsch
 * [NextProf Nexus](http://nextprofnexus.engin.umich.edu/)
 
 
-
 ### Dissertation
 
 There are not many general workshops that focus on dissertation writing. Instead, many universities offer their own events where students can attend on-campus workshops or seminars on this topic. Most schools will have writing centers or graduate writing courses that students can enroll in.
@@ -55,7 +54,18 @@ There are not many general workshops that focus on dissertation writing. Instead
 
 ### Postdoctoral
 
-* [Stanford Postdoctoral Recruitment Initiative in Sciences and Medicine (PRISM)](https://postdocs.stanford.edu/PRISM?utm_source=Announcements+-+May+20%2C+2019&utm_campaign=Announcements-7%2F17%2F17&utm_medium=email)
+* [Stanford Postdoctoral Recruitment Initiative in Sciences and Medicine (PRISM)](https://postdocs.stanford.edu/PRISM)
+
+
+### Rising Star Workshops
+
+* [EECS Rising Stars Academic Career Workshop](https://www.eecs.mit.edu/community-equity/rising-stars-in-eecs/)
+* [Rising in Data Science Workshop](https://datascience.uchicago.edu/rising-stars/)
+* [Rising Stars in Computer Graphics](https://www.wigraph.org/events/2022-rising-stars-workshop/)
+* [Sandia National Labs Rising Stars](https://www.sandia.gov/risingstars/)
+* [Johns Hopkins Rising Stars in Engineering in Health Workshop](https://www.bme.jhu.edu/news-events/events/rising-stars-in-engineering-in-health-workshop/)
+* [UMaryland Rising Stars in Machine Learning](https://ml.umd.edu/rising-stars)
+* [Rising Stars in Cyber-Physical Systems](https://risingstars.linklab.virginia.edu/2022/apply/)
 
 
 ### Future Faculty Workshops
@@ -75,8 +85,6 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 * [Clemson Doctoral Pathfinder Program](https://www.clemson.edu/inclusion/pathfinder/)
 
 * [Delaware FFW Diverse Leaders for the Future Workshop](https://sites.udel.edu/future-faculty-workshop/)
-
-* [EECS Rising Stars Academic Career Workshop](https://www.eecs.mit.edu/community-equity/rising-stars-in-eecs/)
 
 * [Future Faculty Identification Program (FFIP](https://aspire2.utdallas.edu/about-us/future-faculty-identification-program-ffip/)
 
@@ -119,7 +127,7 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 
 * [CRA Career Mentoring Workshop](https://cra.org/career-mentoring-workshop/)
 
-* [Academic Career Workshop for Underrepresented Junior Faculty and Senior Graduate Students](http://www.cmd-it.org/programs/current/acw/?fbclid=IwAR1MttEpW-iG98oacrVvTMS3UfpJ7IGwtiiLf1ZQSrcQ8qwpSh8CImBZJl0)
+* [Academic Career Workshop for Underrepresented Junior Faculty and Senior Graduate Students](http://www.cmd-it.org/programs/current/acw)
 
 * [NSF Minority Faculty Development Workshop](https://serc.carleton.edu/facultyequity/workshop/2018/2018_mfdw_application.html)
 
