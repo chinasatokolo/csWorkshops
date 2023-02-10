@@ -67,7 +67,7 @@ There are not many general workshops that focus on dissertation writing. Instead
 * [UMaryland Rising Stars in Machine Learning](https://ml.umd.edu/rising-stars)
 * [Rising Stars in Cyber-Physical Systems](https://risingstars.linklab.virginia.edu/2022/apply/)
 * [IEEE Rising Stars](https://ieee-risingstars.org/2023/)
-* [IEEE Rising Stars](https://ieee-risingstars.org/2023/)
+* [Rising Stars in Computer Architecture](https://www.sigarch.org/rising-stars-in-computer-architecture-risc-a-workshop-recap/)
 * [IEEE Solid-State Circuits Society Rising Stars Workshop](https://sscs.ieee.org/women-in-circuits/rising-stars-2020-workshop)
 
 
