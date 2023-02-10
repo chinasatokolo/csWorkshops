@@ -60,7 +60,7 @@ There are not many general workshops that focus on dissertation writing. Instead
 ### Rising Star Workshops
 
 * [EECS Rising Stars Academic Career Workshop](https://www.eecs.mit.edu/community-equity/rising-stars-in-eecs/)
-* [Rising in Data Science Workshop](https://datascience.uchicago.edu/rising-stars/)
+* [Rising Stars in Data Science Workshop](https://datascience.uchicago.edu/rising-stars/)
 * [Rising Stars in Computer Graphics](https://www.wigraph.org/events/2022-rising-stars-workshop/)
 * [Sandia National Labs Rising Stars](https://www.sandia.gov/risingstars/)
 * [Johns Hopkins Rising Stars in Engineering in Health Workshop](https://www.bme.jhu.edu/news-events/events/rising-stars-in-engineering-in-health-workshop/)
