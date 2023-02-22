@@ -20,11 +20,13 @@ The McNair Scholars Program maintains an extensive list [here](https://mcnairsch
 
 * [Graduate School 101](https://theihs.org/undergraduates/graduate-school-101)
 
+* [Princeton’s Pathways to Graduate School (PGS) Program](https://engineering.princeton.edu/graduate-studies/academic-pathways/prospective-graduate-students)
+
 * [University of Michigan - Explore Graduate Studies in Computer Science & Engineering](https://www.eecs.umich.edu/cse/egs/)
 
 * [UIUC - Multi-Cultural Engineering Recruitment for Graduate Education](https://my.engr.illinois.edu/submit/)
 
-* [Princeton’s Pathways to Graduate School (PGS) Program](https://engineering.princeton.edu/graduate-studies/academic-pathways/prospective-graduate-students)
+* [University of Washington - CSNext: Graduate School Prep Workshop](https://realitylab.uw.edu/components/csnext.html)
 
 
 ### Early/mid-stage
