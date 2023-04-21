@@ -65,6 +65,7 @@ There are not many general workshops that focus on dissertation writing. Instead
 * [Rising Stars in Data Science Workshop](https://datascience.uchicago.edu/rising-stars/)
 * [Rising Stars in Computer Graphics](https://www.wigraph.org/events/2022-rising-stars-workshop/)
 * [Sandia National Labs Rising Stars](https://www.sandia.gov/risingstars/)
+* [Stanford Rising Stars in Management Science and Engineering](https://msandedei.stanford.edu/events/rising-stars)
 * [Johns Hopkins Rising Stars in Engineering in Health Workshop](https://www.bme.jhu.edu/news-events/events/rising-stars-in-engineering-in-health-workshop/)
 * [UMaryland Rising Stars in Machine Learning](https://ml.umd.edu/rising-stars)
 * [Rising Stars in Cyber-Physical Systems](https://risingstars.linklab.virginia.edu/2022/apply/)
