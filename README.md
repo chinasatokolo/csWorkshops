@@ -78,6 +78,8 @@ There are not many general workshops that focus on dissertation writing. Instead
 
 A lot of schools have their own summer/winter future faculty programs tailored for their own students. For example, Cornell has their [Future Professors Institute](http://blogs.cornell.edu/futureprofs/) but registration for non-Cornell students is $45. Be sure to check if your institution has a similar program, I know there are others at Berkeley, Stanford, etc.  
 
+* [Advancing Careers in Academics with Diversity Education and Mentorship in Engineering (ACADEME) NSF Workshop](https://academe-mentor.org/)
+  
 * [ACTIVE: Faculty Development and Leadership Intensive](https://www.colorado.edu/engineering/active)
 
 * [Adelante Hispanic Serving Institutions (HSI) Future Faculty Bootcamp](https://graduatedivision.ucmerced.edu/adelante)
