@@ -120,6 +120,8 @@ A lot of schools have their own summer/winter future faculty programs tailored f
 * [Purdue BTE: Black Trailblazers in Engineering](https://engineering.purdue.edu/Engr/AboutUs/News/Events/BTE)
 
 * [Rochester Institute of Technology’s Future Faculty Career Exploration Program (FFCEP)](https://www.rit.edu/academicaffairs/facultyrecruitment/future-faculty-programs/future-faculty-career-exploration-program)
+  
+* [RICE University George R. Brown School of Engineering and Computing Future Faculty Fellows Program](https://engineering.rice.edu/academics/future-faculty-fellows) 
 
 * [SEC Emerging Scholars Program](https://www.thesecu.com/news/sec-provosts-establish-emerging-scholars-program-for-future-faculty/)
 
